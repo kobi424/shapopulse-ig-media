@@ -89,6 +89,20 @@
    "rev": 3
   },
   {
+   "id": "p04",
+   "date": "2026-10-11",
+   "time": "19:00",
+   "format": "carousel",
+   "caption": "מעקב קבוע אחרי מתחרים לא אומר שצריך להעתיק מהם. זה פשוט אומר שאתם מבינים את השוק שלכם ונשארים בעניינים.\n\nכדי לעשות את זה נכון, כדאי לבדוק שלושה דברים: איזה מבצעים הם מפרסמים במודעות הממומנות, איזה תוכן עובד להם ברשתות החברתיות, ואיפה הם ממוקמים מולכם בחיפושים בגוגל. ברגע שיש לכם את המידע הזה, הרבה יותר קל לתכנן את המהלכים הבאים שלכם.\n\nבמקום לעשות את כל הבדיקות האלה ידנית, ShapoPulse מרכזת לכם את הנתונים במקום אחד.\n\n#שיווקלעסקים #קידוםעסקים #ShapoPulse",
+   "images": [
+    "https://raw.githubusercontent.com/kobi424/shapopulse-ig-media/main/queue/p04-r1-1.jpg",
+    "https://raw.githubusercontent.com/kobi424/shapopulse-ig-media/main/queue/p04-r1-2.jpg",
+    "https://raw.githubusercontent.com/kobi424/shapopulse-ig-media/main/queue/p04-r1-3.jpg",
+    "https://raw.githubusercontent.com/kobi424/shapopulse-ig-media/main/queue/p04-r1-4.jpg"
+   ],
+   "rev": 1
+  },
+  {
    "id": "p16",
    "date": "2026-11-08",
    "time": "19:00",
@@ -122,5 +136,5 @@
    "rev": 1
   }
  ],
- "updated": "2026-10-08T05:35:29.895Z"
+ "updated": "2026-10-08T05:35:38.531Z"
 }
