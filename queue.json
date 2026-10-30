@@ -365,6 +365,20 @@
    "rev": 3
   },
   {
+   "id": "p25",
+   "date": "2026-11-29",
+   "time": "19:00",
+   "format": "carousel",
+   "caption": "בלאק פריידי מאחורינו. רוב בעלי העסקים לוקחים עכשיו אוויר, אבל זה בדיוק הזמן לאסוף מודיעין על המתחרים שלכם.\n\nההתנהגות שלהם בימים שאחרי הטירוף מגלה המון. אפשר להבין איזה מבצעים עבדו להם ממש טוב, עם איזה מלאי הם נתקעו ומה המסר הבא שלהם ללקוחות. קחו לכם שעה היום כדי לעבור על המודעות הפעילות שלהם ועל הפוסטים האחרונים שהם העלו.\n\nעם ShapoPulse תוכלו לראות את כל המודעות, הפוסטים והמיקומים של המתחרים בגוגל במסך אחד.\n\n#עסקיםקטנים #שיווקדיגיטלי #ShapoPulse",
+   "images": [
+    "https://raw.githubusercontent.com/kobi424/shapopulse-ig-media/main/queue/p25-r1-1.jpg",
+    "https://raw.githubusercontent.com/kobi424/shapopulse-ig-media/main/queue/p25-r1-2.jpg",
+    "https://raw.githubusercontent.com/kobi424/shapopulse-ig-media/main/queue/p25-r1-3.jpg",
+    "https://raw.githubusercontent.com/kobi424/shapopulse-ig-media/main/queue/p25-r1-4.jpg"
+   ],
+   "rev": 1
+  },
+  {
    "id": "p26",
    "date": "2026-12-01",
    "time": "19:00",
@@ -387,5 +401,5 @@
    "rev": 1
   }
  ],
- "updated": "2026-10-30T10:27:36.977Z"
+ "updated": "2026-10-30T10:27:45.039Z"
 }
